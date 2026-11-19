@@ -1,0 +1,14 @@
+# Core
+numpy
+pandas
+scipy
+matplotlib
+opencv-python
+pyyaml
+
+# Detection (installs PyTorch automatically)
+ultralytics>=8.0
+torch
+
+# Running the notebook
+jupyter
